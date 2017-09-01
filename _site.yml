@@ -1,0 +1,26 @@
+name: "Agreco"                                  
+output_dir: "."
+navbar:
+  title: "Agroecosistemas AEET"                                
+  type: inverse
+  left:
+    - text: "Inicio"
+      icon: fa-home
+      href: index.html
+    - text: "Recursos"
+      icon: fa-user 
+      href: recursos.html
+    - text: "AEET"
+      icon: fa-file-pdf-o
+      href: http://www.aeet.org
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:agrecoaeet@gmail.com                     
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/Agrecoaeet      
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
