@@ -8,7 +8,8 @@ La transformación de los sistemas naturales en sistemas productivos, así como 
  
 El interés científico y social por la agroecología viene experimentando un crecimiento significativo durante las últimas décadas. Este creciente interés (debido principalmente a una mayor demanda de productos medioambientalmente sostenibles), es global, y España no es ajena (tal y como se desprende del incremento en el número de grupos de investigación y publicaciones nacionales que incluyen la agroecología ente sus líneas de investigación y publicación). Sin embargo, sorprendentemente, hasta hoy, la AEET carecía de un grupo de trabajo específico sobre agroecología. Así, la creación de ese nuevo grupo de trabajo al abrigo de la AEET es tan necesaria como oportuna.  
  
-La visión de la agroecología de este grupo es la de una disciplina científica inherentemente multidisciplinar (incluyendo no sólo aspectos ecológicos sino sociales y económicos), que tiene como objetivo fundamental la búsqueda de los mecanismos básicos para la sostenibilidad de la producción de bienes en sistemas agrícolas. Así, las diferentes líneas de trabajo (sin orden preferente) que se proponen son las siguientes:  
+La visión de la agroecología de este grupo es la de una disciplina científica inherentemente multidisciplinar (incluyendo no sólo aspectos ecológicos sino sociales y económicos), que tiene como objetivo fundamental la búsqueda de los mecanismos básicos para la sostenibilidad de la producción de bienes en sistemas agrícolas. Así, las diferentes líneas de trabajo (sin orden preferente) que se proponen son las siguientes:
+
 * Conservación de la biodiversidad en sistemas agrícolas  
 * Servicios ecosistémicos y biodiversidad  
 * Producción vegetal y animal  
@@ -17,7 +18,8 @@ La visión de la agroecología de este grupo es la de una disciplina científica
 * Medioambiente y sociedad  
 * Política agraria  
  
-Para alcanzar el objetivo de incrementar la cohesión entre los científicos dedicados a la agroecología (en cualesquiera de las líneas de trabajo antes indicadas), el nuevo grupo de trabajo propone diferentes acciones. Entre ellas, se incluyen:  
+Para alcanzar el objetivo de incrementar la cohesión entre los científicos dedicados a la agroecología (en cualesquiera de las líneas de trabajo antes indicadas), el nuevo grupo de trabajo propone diferentes acciones. Entre ellas, se incluyen:
+
 * Creación de una red de trabajo centralizada mediante una plataforma digital común con el objetivo de fomentar el contacto y cohesión entre grupos de investigación nacionales e internacionales que se dedican al estudio de la agroecología.  
 * La organización de simposios y/o seminarios bianuales de carácter internacional, por ejemplo coincidiendo con los congresos de la AEET.  
 * Publicación de monográficos en revistas internacionales que potencialmente incluyan los trabajos expuestos en los crongresos y/o seminarios organizados por el grupo.  
