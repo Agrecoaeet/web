@@ -1,10 +1,6 @@
----
-title: "Agreco"
----
+![](media/logo-agreco-naming.jpg)
 
-![AGRECO](media/logo-agreco-naming.jpg)
-
-**Nuevo:** 
+#**Nuevo:**   
 - Unete a nuestra [lista de distribución](https://groups.google.com/forum/#!forum/agreco) para estar al dia y participar del grupo.  
 - Rellena el [formulario con tus datos e intereses](https://docs.google.com/forms/d/e/1FAIpQLSd4TYV_pS8ArHLY4DKg1WFsJiHqby3a_Qf1IaYY-WCiimxH2w/) para saber quien formamos agreco.
 
